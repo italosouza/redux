@@ -1,13 +1,13 @@
-# Learn Redux
+# Aprendendo Redux
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+Demonstração simplificada de uma implementação React + Redux. Baseado na serie [Aprendendo Redux](https://learnredux.com/view/hmwBow1PUuo).
 
-## Running
+## Executando
 
-First `npm install` to grab all the necessary dependencies. 
+Primeiramente rode `npm install` para realizar a instação de todas as dependecias necessárias.
 
-Then run `npm start` and open <localhost:7770> in your browser.
+Então rode `npm start` e abra o endereço <localhost:7770> em seu navegador.
 
-## Production Build
+## Build de produção
 
-Run `npm build` to create a distro folder and a bundle.js file.
+Rode `npm build` para criar a pasta `distro` contendo o arquivo `bundle.js`
